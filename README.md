@@ -34,5 +34,5 @@ A simple and elegant calculator application built using Flutter. This app perfor
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/your-username/flutter-calculator.git
+git clone https://github.com/asifriyad6/iPhone-Calculator-Flutter.git
 cd flutter-calculator
